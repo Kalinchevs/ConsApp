@@ -1,0 +1,15 @@
+C:\Users\Sergo\Desktop\СSharp\ConsApp\bin\Debug\net7.0\ConsApp.exe
+C:\Users\Sergo\Desktop\СSharp\ConsApp\bin\Debug\net7.0\ConsApp.deps.json
+C:\Users\Sergo\Desktop\СSharp\ConsApp\bin\Debug\net7.0\ConsApp.runtimeconfig.json
+C:\Users\Sergo\Desktop\СSharp\ConsApp\bin\Debug\net7.0\ConsApp.dll
+C:\Users\Sergo\Desktop\СSharp\ConsApp\bin\Debug\net7.0\ConsApp.pdb
+C:\Users\Sergo\Desktop\СSharp\ConsApp\obj\Debug\net7.0\ConsApp.csproj.AssemblyReference.cache
+C:\Users\Sergo\Desktop\СSharp\ConsApp\obj\Debug\net7.0\ConsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergo\Desktop\СSharp\ConsApp\obj\Debug\net7.0\ConsApp.AssemblyInfoInputs.cache
+C:\Users\Sergo\Desktop\СSharp\ConsApp\obj\Debug\net7.0\ConsApp.AssemblyInfo.cs
+C:\Users\Sergo\Desktop\СSharp\ConsApp\obj\Debug\net7.0\ConsApp.csproj.CoreCompileInputs.cache
+C:\Users\Sergo\Desktop\СSharp\ConsApp\obj\Debug\net7.0\ConsApp.dll
+C:\Users\Sergo\Desktop\СSharp\ConsApp\obj\Debug\net7.0\refint\ConsApp.dll
+C:\Users\Sergo\Desktop\СSharp\ConsApp\obj\Debug\net7.0\ConsApp.pdb
+C:\Users\Sergo\Desktop\СSharp\ConsApp\obj\Debug\net7.0\ConsApp.genruntimeconfig.cache
+C:\Users\Sergo\Desktop\СSharp\ConsApp\obj\Debug\net7.0\ref\ConsApp.dll
