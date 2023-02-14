@@ -14,7 +14,7 @@ namespace ConsApp
     {
         public override void Method()
         {
-            Console.WriteLine("Реализация метода Method()");
+            Console.WriteLine("Реализация метода Method()!");
         }
     }
 }
