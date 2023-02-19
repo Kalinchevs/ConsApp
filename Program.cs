@@ -1,7 +1,20 @@
-﻿// See https://aka.ms/new-console-template for more information
-using ConsApp;
+﻿namespace ConsApp
+{
+    internal class Program
+    {
+        private static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+            Indexer ac = new Indexer();
+            ac[0]=1;
+            ac[1]=3;
+            ac[2]=5;
+            ac[3]=7;
+            ac[4]=9;
+            for(int i=0;i<5;i++)
+                Console.WriteLine(ac[i]);
+            Console.ReadKey();
+        }
+    }
+}
 
-Console.WriteLine("Hello, World!");
-AbstractClass concreteClass=new ConcreteClass();
-concreteClass.Method();
-Console.ReadKey();
